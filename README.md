@@ -31,10 +31,28 @@ script para capturar tu biblioteca de spotify ordenada alfabeticamente y guardar
 5.- Si todo esta en orden , ya podras usar el script ya sea desde una terminal con el comando 'python main.py' o dando play en la esquina superior derecha si      es que usas PyCharm como IDE.
 
 ##NOTA : el funcionamineto es sencillo y automatico, cuando ejecutes el script se abrirá una ventana en tu navegador predeterminado (CHROME, FIREFOX, BRAVE etc) . ahi te solicitara inicar sesion en Spotify. Esto es necesario para que el script tenga acceso a tu biblioteca de musica y pueda trabajar. 
+
+![imagen](https://github.com/nearuser/bibliotify/assets/11250699/d9edf1a8-482a-4ee5-958d-219655e5bfcd)
+
+
+
 si las credenciales de usuario son correctas la ventana se congelará mientras lista toda tu música (queda pendiente trabajar sobre una vista de LOADING ..) 
 Una vez se complete el listado veras el mensaje "CONEXIÓN EXITOSA, YA PUEDES CERRAR ESTA VENTANA).
+
+![imagen](https://github.com/nearuser/bibliotify/assets/11250699/4ad52210-99a4-4212-bef2-5bb78738da3a)
+
  
 En la carpeta donde clinaste este proyecto tendras un archivo .docx llamado "listado_pistas.docx" 
+
+![imagen](https://github.com/nearuser/bibliotify/assets/11250699/982d40f1-1fab-4758-a6dd-925942bf89b0)
+
+ejemplo de la lista que encontraras : 
+
+![imagen](https://github.com/nearuser/bibliotify/assets/11250699/8c2ed027-c764-4758-b686-cab29960514f)
+
+
+
+
 
 ##PROXIMAMENTE MEJORAS VISUALES Y ESTETICAS
 
