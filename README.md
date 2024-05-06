@@ -42,7 +42,7 @@ Una vez se complete el listado veras el mensaje "CONEXIÓN EXITOSA, YA PUEDES CE
 ![imagen](https://github.com/nearuser/bibliotify/assets/11250699/4ad52210-99a4-4212-bef2-5bb78738da3a)
 
  
-En la carpeta donde clinaste este proyecto tendras un archivo .docx llamado "listado_pistas.docx" 
+En la carpeta donde clonaste este proyecto tendras un archivo .docx llamado "listado_pistas.docx" 
 
 ![imagen](https://github.com/nearuser/bibliotify/assets/11250699/982d40f1-1fab-4758-a6dd-925942bf89b0)
 
